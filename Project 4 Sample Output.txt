@@ -1,0 +1,45 @@
+The First Number Is: MCCXXVI(1226)
+The Second Number Is: CV(105)
+The Operator Is: +
+The Result Is: 1331(MCCCXXXI)
+****************************************
+The First Number Is: MCCXXVI(1226)
+The Second Number Is: MCCXXVI(1226)
+The Operator Is: /
+The Result Is: 1(I)
+****************************************
+The First Number Is: V(5)
+The Second Number Is: I(1)
+The Operator Is: -
+The Result Is: 4(IIII)
+****************************************
+The First Number Is: MDCLXVI(1666)
+The Second Number Is: III(3)
+The Operator Is: *
+The Result Is: 4998(MMMMDCCCCLXXXXVIII)
+****************************************
+The First Number Is: DL(550)
+The Second Number Is: DXXXXVIII(548)
+The Operator Is: -
+The Result Is: 2(II)
+****************************************
+The First Number Is: D(500)
+The Second Number Is: L(50)
+The Operator Is: /
+The Result Is: 10(X)
+****************************************
+The First Number Is: MDI(1501)
+The Second Number Is: CXI(111)
+The Operator Is: +
+The Result Is: 1612(MDCXII)
+****************************************
+The First Number Is: XXV(25)
+The Second Number Is: IIII(4)
+The Operator Is: /
+The Result Is: 6(VI)
+****************************************
+The First Number Is: XI(11)
+The Second Number Is: CII(102)
+The Operator Is: *
+The Result Is: 1122(MCXXII)
+****************************************
